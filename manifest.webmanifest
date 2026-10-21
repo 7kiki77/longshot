@@ -1,0 +1,15 @@
+{
+  "name": "一页长图 · 智能截图拼接",
+  "short_name": "一页长图",
+  "description": "手机端截图与录屏拼接工具，本地处理，保护隐私。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#f7f8f4",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
